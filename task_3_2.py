@@ -8,4 +8,4 @@ def num_translate_adv(word):
             print(v.title())
 
 
-num_translate_adv(input('Введите числительное на английском языке: '))
+num_translate_adv(input('введите числительное на английском языке: '))
